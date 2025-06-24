@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Data Manipulation and Visualization** projects.
 - 🌱 I’m learning **Advanced Data Analysis**, **Machine Learning**, and **Networking**.
 - 👯 I’m looking to collaborate on **Open Source Data Science & Networking Projects**.
-- 📫 How to reach me: [rishaprajchaudhary@example.com](mailto:rishapraj.chaudhary@gmail.com)
+- 📫 How to reach me: [rishapraj.chaudhary@gmail.com](mailto:rishapraj.chaudhary@gmail.com)
 
 ## 🛠️ Skills & Tools
 
@@ -32,7 +32,7 @@
 ## 📌 Pinned Repositories
 - [Data-Manipulation-and-Visualization](https://github.com/rishaprajchaudhary/Data-Manipulation-and-Visualization)
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/rishap-chaudhary-62939a335)
+- [LinkedIn](https://www.linkedin.com/in/rishap-chaudhary-62939a335/)
 - [Medium](https://medium.com/@rishaprajchaudhary)
 
 ## 🎯 Current Focus
