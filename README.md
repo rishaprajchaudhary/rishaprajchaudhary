@@ -33,7 +33,7 @@
 - [Data-Manipulation-and-Visualization](https://github.com/rishaprajchaudhary/Data-Manipulation-and-Visualization)
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rishap-chaudhary-62939a335/)
-- [Medium](https://medium.com/@rishaprajchaudhary)
+- [Medium](https://medium.com/@rishapraj.chaudhary)
 
 ## 🎯 Current Focus
 - 📚 Deepening knowledge in **Deep Learning**, **Natural Language Processing**, and **Network Security**.
